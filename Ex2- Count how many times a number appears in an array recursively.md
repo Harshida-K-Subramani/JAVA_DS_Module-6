@@ -18,11 +18,6 @@ RegisterNumber:  212224040108
 */
 ```
 ```java
-/*
-Program Count how many times a number appears in an array recursively.
-Developed by: AKASH G
-RegisterNumber: 212224100004
-*/
 import java.util.Scanner;
 
 public class CountOccurrences {
